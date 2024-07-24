@@ -14,6 +14,7 @@ writer.write(`<!DOCTYPE html>
         <meta charset="UTF-8">
         <title>H9 {CAMPUS} </title>
         <link rel="stylesheet" href="https://unpkg.com/mvp.css">
+        <link rel="icon" type="image/png" href="https://avatars.githubusercontent.com/u/132721362">
     </head>
     <body>
     <main>
