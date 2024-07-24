@@ -2,10 +2,16 @@
   "name": "campus-web",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "build": "bun run ."
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "showdown": "^2.1.0"
   }
 }
