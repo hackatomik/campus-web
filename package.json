@@ -12,6 +12,6 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "showdown": "^2.1.0"
+    "marked": "^13.0.2"
   }
 }
