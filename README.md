@@ -1,5 +1,19 @@
 # [H9](https://hackatomik.com) {CAMPUS}
 
+¡Hola! Si estás leyendo esto probablemente curses una carrera de ingeniería de sistemas... o al menos te interesa aprender sobre tecnología.
+
+Estás en el lugar correcto. Esto se trata de una **guía** (más que un "curso definitivo") para impulsar tu carrera en tecnología aplicando las mejores prácticas y _mindset_ desde el principio.
+
+Antes de comenzar te recomendamos ver este video en YouTube de Brais Moure ([MoureDev](https://mouredev.com/)) en el que explica ¿Qué debes saber antes de aprender a programar? (_Spoiler:_ Es más sencillo de lo que parece.)
+
+<a href="https://www.youtube.com/watch?v=mIVbUb7shE8">
+<img src="https://img.youtube.com/vi/mIVbUb7shE8/maxresdefault.jpg" alt="Introducción a la Programación por MoureDev" title="Introducción a la Programación por MoureDev"  height="300px">
+</a>
+
+Teniendo esos conceptos en consideración ya estamos listos para aprender cualquier rama de la programación o profesiones relacionadas. Esta guía es agnóstica por lo que te va a ser de ayuda para cualquier tecnología que elijas en un momento dado.
+
+Nuestros primeros módulos enseñan sobre **Git y GitHub**, **línea de comandos (CLI)** y conceptos de **_Scrum_ y marcos de trabajo ágiles (_Agile_)**. Todo esto se encuentra en cualquier puesto de trabajo del sector y por desgracia muy poco se enseña en universidades. Nosotros buscamos mejorar esa desafortunada realidad e incentivar a que se aprenda _desde el principio_.
+
 Guías de referencia en las que se basa este documento:
 
 - [Google Sheets](https://docs.google.com/presentation/d/1yFgv_sgQCuoQkRluLT_CJEhkL_EhxLZjVOIPLTYUnu8/edit#slide=id.p)
@@ -16,7 +30,15 @@ Guías de referencia en las que se basa este documento:
 
 ## Git y GitHub
 
-Objetivos de la guía
+Git es una herramienta esencial para el **control de versiones** y **colaboración** en tus proyectos. Todo proyecto profesional de programación debe usarlo.
+
+Video en YouTube de referencia por Brais Moure ([MoureDev](https://mouredev.com/)):
+
+<a href="https://www.youtube.com/watch?v=3GymExBkKjE">
+<img src="https://img.youtube.com/vi/3GymExBkKjE/maxresdefault.jpg" alt="Curso de Git y GitHub por MoureDev" title="Curso de Git y GitHub por MoureDev"  height="300px">
+</a>
+
+### Objetivos de la guía
 
 - Enseñar a los estudiantes a utilizar GitHub para la colaboración en proyectos de ingeniería.
 - Facilitar el aprendizaje de sistemas colaborativos mediante la práctica con GitHub.
@@ -47,6 +69,14 @@ Linux:
 - Abre la Terminal y ejecuta `sudo apt-get install git` (para distribuciones basadas en Debian) o `sudo yum install git` (para distribuciones basadas en Red Hat).
 
 ### Paso 3: Uso de la Terminal
+
+> El uso de la línea de comandos (terminal) es fundamental para usar los programas destinados a desarrollar software. La línea de comando está presente en todos los sistemas operativos (Windows, MacOS y Linux), pero la más usada para este fin es la de **Linux** (Bash, también presente en MacOS). Si usas Windows también puedes usarla, [instalando WSL2](https://www.youtube.com/watch?v=Qy44XLpiChc) o con una máquina virtual.
+
+Video en YouTube por [Freddy Vega](https://freddyvega.com) (Co-Fundador y CEO de [Platzi](https://platzi.com)) sobre la importancia de aprender Linux y su línea de comandos:
+
+<a href="https://www.youtube.com/watch?v=rieFzuJfRN0">
+<img src="https://img.youtube.com/vi/rieFzuJfRN0/maxresdefault.jpg" alt="Por qué aprender Linux, por Freddy Vega de Platzi" title="Por qué aprender Linux, por Freddy Vega de Platzi"  height="300px">
+</a>
 
 Algunos comandos para terminal Bash de **Linux** (preferiblemente):
 
@@ -90,7 +120,7 @@ git config --global user.email "tuemail@example.com"
 
 Alternativas de software a usar para matemáticas:
 
-- **SageMath** (Gratuito Open Source)
+- **SageMath** (Gratuito _Open Source_)
 
   1. Instalación:
      - Descarga e instala SageMath desde https://sagemath.org.
@@ -102,18 +132,24 @@ Alternativas de software a usar para matemáticas:
      - Descarga e instala MATLAB desde https://mathworks.com.
   2. Uso Básico:
      - Abre MATLAB y utiliza el entorno de desarrollo para realizar cálculos y simulaciones.
-- **Mathematica**
+- **Mathematica** (propietario)
   1. Instalación:
      - Descarga e instala Mathematica desde https://wolfram.com.
   2. Uso Básico:
      - Abre Mathematica y utiliza el entorno de desarrollo para realizar cálculos simbólicos y numéricos.
-- **Wolfram Alpha**
+- **Wolfram Alpha** (propietario)
   1. Acceso en Línea:
      - Visita https://wolframalpha.com.
   2. Uso Básico:
      - Introduce consultas matemáticas y científicas para obtener respuestas inmediatas.
 
 ### Tecnología de Información y Comunicaciones (TIC)
+
+Video en YouTube sobre el curso de **TICx50** ([playlist completa en este enlace](https://www.youtube.com/playlist?list=PLX-ObMol0ust2S0rjwiK56BjLl4AzqYU3)) impartido en la [Universidad Tecnológica de Panamá](https://utp.ac.pa) por [Johel Batista](https://www.youtube.com/@BatistaJohel) (Fundador y Presidente de la [Fundación Ayudinga](https://ayudinga.org)):
+
+<a href="https://www.youtube.com/watch?v=tRm1cQHdg6Q">
+<img src="https://img.youtube.com/vi/tRm1cQHdg6Q/maxresdefault.jpg" alt="Curso de TICx50" title="Curso de TICx50"  height="300px">
+</a>
 
 #### Gestión de Proyectos
 
@@ -134,6 +170,12 @@ Alternativas de software a usar para matemáticas:
    - Integra estas herramientas con GitHub para compartir y colaborar en proyectos de ingeniería, facilitando el acceso a código y resultados entre los miembros del equipo.
 
 ### Sistemas Colaborativos (SISCO)
+
+Video en YouTube sobre el curso de **Sistemas Colaborativos** impartido en la [Universidad Tecnológica de Panamá](https://utp.ac.pa) por [Johel Batista](https://www.youtube.com/@BatistaJohel) (Fundador y Presidente de la [Fundación Ayudinga](https://ayudinga.org)):
+
+<a href="https://www.youtube.com/watch?v=pJODSoFkGOw">
+<img src="https://img.youtube.com/vi/pJODSoFkGOw/maxresdefault.jpg" alt="Curso de Sistemas Colaborativos" title="Curso de Sistemas Colaborativos"  height="300px">
+</a>
 
 #### Gestión de Proyectos con GitHub Projects
 
